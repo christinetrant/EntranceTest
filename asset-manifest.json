@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/EntranceTest/static/css/main.fcdf0155.chunk.css",
+    "main.js": "/EntranceTest/static/js/main.fc855689.chunk.js",
+    "main.js.map": "/EntranceTest/static/js/main.fc855689.chunk.js.map",
+    "runtime-main.js": "/EntranceTest/static/js/runtime-main.864ce96e.js",
+    "runtime-main.js.map": "/EntranceTest/static/js/runtime-main.864ce96e.js.map",
+    "static/js/2.87123d3e.chunk.js": "/EntranceTest/static/js/2.87123d3e.chunk.js",
+    "static/js/2.87123d3e.chunk.js.map": "/EntranceTest/static/js/2.87123d3e.chunk.js.map",
+    "index.html": "/EntranceTest/index.html",
+    "precache-manifest.f549b6cd0900d073a3089f9520498867.js": "/EntranceTest/precache-manifest.f549b6cd0900d073a3089f9520498867.js",
+    "service-worker.js": "/EntranceTest/service-worker.js",
+    "static/css/main.fcdf0155.chunk.css.map": "/EntranceTest/static/css/main.fcdf0155.chunk.css.map",
+    "static/js/2.87123d3e.chunk.js.LICENSE.txt": "/EntranceTest/static/js/2.87123d3e.chunk.js.LICENSE.txt",
+    "static/media/Toolbar.css": "/EntranceTest/static/media/btn-6.07cce7b4.svg",
+    "static/media/Canvas.css": "/EntranceTest/static/media/image.6984aa41.jpg",
+    "static/media/invite.svg": "/EntranceTest/static/media/invite.042ef0a7.svg",
+    "static/media/logo.57c4f061.svg": "/EntranceTest/static/media/logo.57c4f061.svg",
+    "static/media/workboard.svg": "/EntranceTest/static/media/workboard.9139a3e1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.864ce96e.js",
+    "static/js/2.87123d3e.chunk.js",
+    "static/css/main.fcdf0155.chunk.css",
+    "static/js/main.fc855689.chunk.js"
+  ]
+}
